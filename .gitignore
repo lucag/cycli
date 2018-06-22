@@ -1,9 +1,10 @@
 neo4j*
 *.py[cod]
 *.egg
-*.egg-info
+*.egg-info/
 dist
 build
 eggs
-.idea
 .cache
+.iml
+.idea/
